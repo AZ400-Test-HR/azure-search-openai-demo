@@ -9,7 +9,7 @@
               "clientSecretSettingName": "AADB2C_PROVIDER_CLIENT_SECRET"
             },
             "openIdConnectConfiguration": {
-              "wellKnownOpenIdConfiguration": "https://hamadab2ctest.b2clogin.com/hamadab2ctest.onmicrosoft.com/B2C_1_signup_signin/v2.0/.well-known/openid-configuration"
+              "wellKnownOpenIdConfiguration": "https://hamadab2ctest.b2clogin.com/hamadab2ctest.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_signup_signin"
             }
           },
           "login": {
